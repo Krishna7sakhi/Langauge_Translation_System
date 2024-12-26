@@ -21,7 +21,7 @@ The system leverages the **MarianMT model**, a state-of-the-art machine translat
 - **Libraries**:
   - `transformers` (for MarianMT model)
   - `PyPDF2` (for PDF text extraction)
-  - `nltk` (for preprocessing and tokenization)
+    
 
 ---
 
